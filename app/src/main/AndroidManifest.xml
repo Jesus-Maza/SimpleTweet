@@ -14,6 +14,12 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".ComposerActivity"
+            android:exported="true" />
+        <activity
+            android:name=".DetailActivity"
+            android:exported="true" />
+        <activity
             android:name=".TimelineActivity"
             android:exported="true" />
         <activity
