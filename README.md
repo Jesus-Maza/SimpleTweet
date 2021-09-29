@@ -29,7 +29,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] You are able to click on the tweets.
+- [x] Some tweets that images embedded to them (not all). 
 
 ## Video Walkthrough
 
@@ -41,7 +42,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Took me many hours to figure out how to get media_url_https
 
 ## Open-source libraries used
 
